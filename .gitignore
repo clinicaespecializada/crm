@@ -1,0 +1,14 @@
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
