@@ -12,4 +12,58 @@ ENV/
 venv.bak/
 pip-log.txt
 pip-delete-this-directory.txt
+
+# Virtualenv
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Pytest
+.cache/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Pytest
+*.log
+
+# MyPy
+.mypy_cache/
+
+# Pyenv
+.python-version
+
+# Environments
+.env
+.env.local
+.env.*.local
 db.sqlite3
